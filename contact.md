@@ -11,4 +11,5 @@ image:
   thumb:
 ---
 
-[Add your contact information here]
+Email: wsusomaig@gmail.com
+Instagram: wsusom_aig
