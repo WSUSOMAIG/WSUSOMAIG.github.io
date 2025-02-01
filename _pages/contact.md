@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Contact Us"
-permalink: /contact/
+permalink: "/contact/"
 share: false
 ---
 
