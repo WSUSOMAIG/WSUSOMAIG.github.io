@@ -1,6 +1,15 @@
 # Site navigation links
+- title: Home
+  url: /
+  excerpt: "Main page"
+  image: 
 
-- title: Test
-  url: wsusomaig.github.io/new-page
-  excerpt:
+- title: About
+  url: /about/
+  excerpt: "Learn more about us"
+  image:
+
+- title: Contact Us
+  url: /contact/
+  excerpt: "Get in touch with us"
   image:
