@@ -62,3 +62,4 @@ exclude:
   - package.json
   - spec
   - tmp
+<li><a href="{{ site.baseurl }}/new-page/">New Page</a></li>
