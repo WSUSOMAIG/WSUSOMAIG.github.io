@@ -8,13 +8,13 @@ Welcome to the Anesthesia Interest Group at Wayne State University School of Med
 
 ## Notable Features
 
-* Jekyll 3.x and GitHub Pages compatible.
+* 3.x and GitHub Pages compatible.
 * Stylesheet built using Sass.
 * Data files for easier customization of the site navigation/footer and for supporting multiple authors.
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
 * And more.
 
-## More Jekyll Themes
+## Resources
 
 Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
 
