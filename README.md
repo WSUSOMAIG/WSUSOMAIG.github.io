@@ -16,7 +16,7 @@ Welcome to the Anesthesia Interest Group at Wayne State University School of Med
 
 ## Resources
 
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
+Check out these other anesthesiology resources.
 
 * [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
 * [So Simple](https://github.com/mmistakes/so-simple-theme)
