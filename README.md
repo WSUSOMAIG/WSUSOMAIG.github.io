@@ -21,3 +21,17 @@ Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub 
 * [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
 * [So Simple](https://github.com/mmistakes/so-simple-theme)
 * [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+
+
+  <!-- Instagram Feed Section -->
+  <section class="instagram-section">
+    <h2>Recent Updates</h2>
+    <!-- Instagram embed code will go here -->
+    <div class="instagram-feed">
+      <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/wsusom_aig/">
+      </blockquote>
+      <script async src="//www.instagram.com/embed.js"></script>
+    </div>
+  </section>
+</div>
+
