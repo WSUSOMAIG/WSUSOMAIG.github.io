@@ -33,5 +33,4 @@ Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub 
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
   </section>
-</div>
 
