@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: https://wsusomaig.github.io/
 title: "Latest Posts"
 ---
 
