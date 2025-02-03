@@ -1,23 +1,31 @@
-# Skinny Bones Jekyll Starter
-
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
-
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
-
+---
+layout: article
+title: "Welcome to WSU SOM AIG"
+share: false
+image:
+  feature: [you can add a feature image here later]
 ---
 
-## Notable Features
+<div class="page-content">
+  <!-- Hero/Intro Section -->
+  <section class="intro-section">
+    <div class="intro-content">
+      <h2>Wayne State School of Medicine Anesthesia Interest Group</h2>
+      <p>Welcome to the Anesthesia Interest Group at Wayne State University School of Medicine. We are dedicated to helping medical students explore and learn about the field of anesthesiology through educational events, networking opportunities, and hands-on experiences.</p>
+      
+      <!-- Add an image here -->
+      <img src="/images/your-image.jpg" alt="WSU SOM AIG" class="feature-image">
+    </div>
+  </section>
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
-
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+  <!-- Instagram Feed Section -->
+  <section class="instagram-section">
+    <h2>Recent Updates</h2>
+    <!-- Instagram embed code will go here -->
+    <div class="instagram-feed">
+      <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/wsusom_aig/">
+      </blockquote>
+      <script async src="//www.instagram.com/embed.js"></script>
+    </div>
+  </section>
+</div>
