@@ -1,6 +1,6 @@
 # Welcome to WSU SOM AIG
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Welcome to the Anesthesia Interest Group at Wayne State University School of Medicine. We are dedicated to helping medical students explore and learn about the field of anesthesiology through educational events, networking opportunities, and hands-on experiences
 
 ![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
 
