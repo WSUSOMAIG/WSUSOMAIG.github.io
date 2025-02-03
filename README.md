@@ -18,7 +18,7 @@ Welcome to the Anesthesia Interest Group at Wayne State University School of Med
 
 Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
 
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+* [Minimal Mistakes](https://anesthesiology.med.wayne.edu/)
 * [So Simple](https://github.com/mmistakes/so-simple-theme)
 * [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
 
