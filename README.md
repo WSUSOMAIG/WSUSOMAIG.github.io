@@ -14,9 +14,7 @@ Welcome to the Anesthesia Interest Group at Wayne State University School of Med
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
 * And more.
 
-## Resources
-
-Check out these other anesthesiology resources.
+## Additional Resources
 
 * [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
 * [So Simple](https://github.com/mmistakes/so-simple-theme)
