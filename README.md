@@ -18,9 +18,15 @@ image:
     </div>
   </section>
 
-## Additional Resources
 
-* [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
+<div class="page-content">
+  <!-- Hero/Intro Section -->
+  <section class="intro-section">
+    <div class="intro-content">
+      <h2>Additional Resources</h2>
+ <p>* [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)</p>
+    </div>
+  </section>
 
 
   <!-- Instagram Feed Section -->
