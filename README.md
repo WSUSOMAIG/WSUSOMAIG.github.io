@@ -3,7 +3,7 @@
 ---
 layout: article
 title: "Welcome to WSU SOM AIG"
-share: false
+share: 
 image:
   feature: /images/anesthesia-image.jpg
 ---
