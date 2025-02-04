@@ -1,10 +1,5 @@
 # Welcome to WSU SOM AIG
----
-layout: article
-title: "Welcome to WSU SOM AIG"
-share: false
-image:
-  feature: /images/anesthesia-image.jpg
+
 ---
 <div class="page-content">
   <!-- Hero/Intro Section -->
