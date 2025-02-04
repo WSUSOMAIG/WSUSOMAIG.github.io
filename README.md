@@ -45,5 +45,3 @@ Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub 
     </div>
   </section>
 </div>
-
-<userStyle>Normal</userStyle>
