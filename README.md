@@ -27,7 +27,6 @@ image:
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
   </section>
-</div>
 
 
 
