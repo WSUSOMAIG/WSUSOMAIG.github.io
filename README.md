@@ -1,18 +1,22 @@
 # Welcome to WSU SOM AIG
 
-Welcome to the Anesthesia Interest Group at Wayne State University School of Medicine. We are dedicated to helping medical students explore and learn about the field of anesthesiology through educational events, networking opportunities, and hands-on experiences
-
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
-
+---
+layout: article
+title: "Welcome to WSU SOM AIG"
+share: false
+image:
+  feature: /images/anesthesia-image.jpg
 ---
 
-## Notable Features
-
-* 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+<div class="page-content">
+  <!-- Hero/Intro Section -->
+  <section class="intro-section">
+    <div class="intro-content">
+      <h2>Explore the Field of Anesthesiology</h2>
+      <p>The Anesthesia Interest Group at Wayne State University School of Medicine is dedicated to providing medical students with opportunities to learn about and experience the vital role of anesthesiologists in modern healthcare.</p>
+      <p>Through educational events, hands-on workshops, and networking with experienced professionals, our group aims to inspire the next generation of anesthesia providers.</p>
+    </div>
+  </section>
 
 ## Additional Resources
 
