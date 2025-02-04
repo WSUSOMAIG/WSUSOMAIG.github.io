@@ -1,5 +1,4 @@
 # Welcome to WSU SOM AIG
-
 ---
 layout: article
 title: "Welcome to WSU SOM AIG"
@@ -7,7 +6,6 @@ share: false
 image:
   feature: /images/anesthesia-image.jpg
 ---
-
 <div class="page-content">
   <!-- Hero/Intro Section -->
   <section class="intro-section">
@@ -17,18 +15,16 @@ image:
       <p>Through educational events, hands-on workshops, and networking with experienced professionals, our group aims to inspire the next generation of anesthesia providers.</p>
     </div>
   </section>
-
+</div>
 
 <div class="page-content">
   <!-- Hero/Intro Section -->
   <section class="intro-section">
     <div class="intro-content">
       <h2>Additional Resources</h2>
- <p>* [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)</p>
+      <p>[Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)</p>
     </div>
   </section>
-
-
   <!-- Instagram Feed Section -->
   <section class="instagram-section">
     <h2>Recent Updates</h2>
@@ -39,3 +35,6 @@ image:
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
   </section>
+</div>
+
+<userStyle>Normal</userStyle>
