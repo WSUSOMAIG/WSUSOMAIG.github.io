@@ -25,6 +25,15 @@ image:
       <p>[Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)</p>
     </div>
   </section>
+
+## More Jekyll Themes
+
+Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
+
+* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+* [So Simple](https://github.com/mmistakes/so-simple-theme)
+
+  
   <!-- Instagram Feed Section -->
   <section class="instagram-section">
     <h2>Recent Updates</h2>
