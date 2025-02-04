@@ -16,15 +16,6 @@ image:
     </div>
   </section>
 </div>
-
-<div class="page-content">
-  <!-- Hero/Intro Section -->
-  <section class="intro-section">
-    <div class="intro-content">
-      <h2>Additional Resources</h2>
-      <p>[Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)</p>
-    </div>
-  </section>
   
   <!-- Instagram Feed Section -->
   <section class="instagram-section">
@@ -43,14 +34,6 @@ image:
 ![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
 
 ---
-
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
 
 ## Additional Resources
 
