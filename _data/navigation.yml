@@ -9,12 +9,13 @@
   excerpt: "Learn more about us"
   image:
 
-- title: Contact Us
-  url: /contact/
-  excerpt: "Get in touch with us"
-  image:
-
 - title: Meet The Team
   url: /meettheteam/
   excerpt: "Board Members"
   image:
+
+- title: Contact Us
+  url: /contact/
+  excerpt: "Get in touch with us"
+  image:
+  
