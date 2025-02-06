@@ -32,6 +32,8 @@ title: "Meet the Team"
         <p class="team-bio">Brief description about Chloe's background and contributions to the group.</p>
     </div>
 
+
+
     <div class="team-member">
         <img src="/images/noahkos.jpg" alt="Noah Kos" class="team-photo">
         <h3>Noah Kos</h3>
