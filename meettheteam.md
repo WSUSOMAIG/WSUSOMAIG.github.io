@@ -33,7 +33,7 @@ title: "Meet the Team"
     </div>
 
     <div class="team-member">
-        <img src="/images/noah-kos.jpg" alt="Noah Kos" class="team-photo">
+        <img src="/images/noahkos.jpg" alt="Noah Kos" class="team-photo">
         <h3>Noah Kos</h3>
         <p class="team-title">Outreach Coordinator</p>
         <p class="team-bio">Brief description about Noah's role in organizing outreach activities.</p>
