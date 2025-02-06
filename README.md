@@ -35,4 +35,4 @@
 
 * [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
 * [ASA Anesthesia Guide](https://www.asahq.org/education-and-career/asa-medical-student-component/guide-to-a-career-in-anesthesiology)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+* [Society for Education in Anesthesia (SEA)](https://www.seahq.org/)
