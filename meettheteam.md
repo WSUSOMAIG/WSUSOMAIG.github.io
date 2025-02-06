@@ -11,11 +11,6 @@ image:
   thumb:
 ---
 
----
-layout: article
-title: "Meet the Team"
----
-
 <div class="team-container">
     <div class="team-row">
         <div class="team-member">
