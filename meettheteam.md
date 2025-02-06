@@ -12,20 +12,21 @@ image:
 ---
 
 
+
 <div class="team-container">
     <div class="team-row">
         <div class="team-member">
             <img src="/images/ryan-beyers.jpg" alt="Ryan Beyers" class="team-photo">
             <h3>Ryan Beyers</h3>
             <p class="team-title">President</p>
-            <p class="team-bio">Brief description about Ryan's background and role in the Anesthesia Interest Group.</p>
+            <p class="team-bio">Leads the group, oversees events, and coordinates with faculty and guest speakers.</p>
         </div>
 
         <div class="team-member">
             <img src="/images/chloe-sutlick.jpg" alt="Chloe Sutlick" class="team-photo">
             <h3>Chloe Sutlick</h3>
             <p class="team-title">Vice President</p>
-            <p class="team-bio">Brief description about Chloe's background and contributions to the group.</p>
+            <p class="team-bio">Supports the president, manages logistics, and helps with event planning and mentorship opportunities.</p>
         </div>
     </div>
 
@@ -34,14 +35,14 @@ image:
             <img src="/images/noahkos.jpg" alt="Noah Kos" class="team-photo">
             <h3>Noah Kos</h3>
             <p class="team-title">Outreach Coordinator</p>
-            <p class="team-bio">Brief description about Noah's role in organizing outreach activities.</p>
+            <p class="team-bio">Builds connections with anesthesiologists, organizes networking opportunities, and facilitates shadowing experiences.</p>
         </div>
 
         <div class="team-member">
             <img src="/images/tochi-mbagwu.jpg" alt="Tochi Mbagwu" class="team-photo">
             <h3>Tochi Mbagwu</h3>
             <p class="team-title">Marketing Coordinator</p>
-            <p class="team-bio">Brief description about Tochi's responsibilities in marketing the group.</p>
+            <p class="team-bio">Manages social media, promotes events, and creates engaging content to increase awareness of the group.</p>
         </div>
     </div>
 </div>
