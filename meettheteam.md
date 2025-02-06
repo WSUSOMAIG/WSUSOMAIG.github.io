@@ -11,6 +11,7 @@ image:
   thumb:
 ---
 
+
 <div class="team-container">
     <div class="team-row">
         <div class="team-member">
