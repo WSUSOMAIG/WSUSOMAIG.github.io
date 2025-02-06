@@ -33,6 +33,6 @@
 
 ## Additional Resources
 
-* [Wayne State Anesthesiology](https://anesthesiology.med.wayne.edu/)
+* [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
 * [So Simple](https://github.com/mmistakes/so-simple-theme)
 * [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
