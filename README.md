@@ -11,6 +11,11 @@
     </div>
   </section>
 </div>
+
+
+
+![screenshot of Skinny Bones](/images/anesthesia-image.jpg)
+
   
   <!-- Instagram Feed Section -->
   <section class="instagram-section">
@@ -23,9 +28,6 @@
     </div>
   </section>
 
-
-
-![screenshot of Skinny Bones](/images/anesthesia-image.jpg)
 
 ---
 
