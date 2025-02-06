@@ -34,5 +34,5 @@
 ## Additional Resources
 
 * [Wayne State University Anesthesiology](https://anesthesiology.med.wayne.edu/)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
+* [ASA Anesthesia Guide](https://www.asahq.org/education-and-career/asa-medical-student-component/guide-to-a-career-in-anesthesiology)
 * [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
