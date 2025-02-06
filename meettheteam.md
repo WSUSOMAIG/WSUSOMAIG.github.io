@@ -11,49 +11,56 @@ image:
   thumb:
 ---
 
-
 ---
 layout: article
 title: "Meet the Team"
 ---
 
 <div class="team-container">
-    <div class="team-member">
-        <img src="/images/ryan-beyers.jpg" alt="Ryan Beyers" class="team-photo">
-        <h3>Ryan Beyers</h3>
-        <p class="team-title">President</p>
-        <p class="team-bio">Brief description about Ryan's background and role in the Anesthesia Interest Group.</p>
+    <div class="team-row">
+        <div class="team-member">
+            <img src="/images/ryan-beyers.jpg" alt="Ryan Beyers" class="team-photo">
+            <h3>Ryan Beyers</h3>
+            <p class="team-title">President</p>
+            <p class="team-bio">Brief description about Ryan's background and role in the Anesthesia Interest Group.</p>
+        </div>
+
+        <div class="team-member">
+            <img src="/images/chloe-sutlick.jpg" alt="Chloe Sutlick" class="team-photo">
+            <h3>Chloe Sutlick</h3>
+            <p class="team-title">Vice President</p>
+            <p class="team-bio">Brief description about Chloe's background and contributions to the group.</p>
+        </div>
     </div>
 
-    <div class="team-member">
-        <img src="/images/chloe-sutlick.jpg" alt="Chloe Sutlick" class="team-photo">
-        <h3>Chloe Sutlick</h3>
-        <p class="team-title">Vice President</p>
-        <p class="team-bio">Brief description about Chloe's background and contributions to the group.</p>
-    </div>
+    <div class="team-row">
+        <div class="team-member">
+            <img src="/images/noahkos.jpg" alt="Noah Kos" class="team-photo">
+            <h3>Noah Kos</h3>
+            <p class="team-title">Outreach Coordinator</p>
+            <p class="team-bio">Brief description about Noah's role in organizing outreach activities.</p>
+        </div>
 
-
-
-    <div class="team-member">
-        <img src="/images/noahkos.jpg" alt="Noah Kos" class="team-photo">
-        <h3>Noah Kos</h3>
-        <p class="team-title">Outreach Coordinator</p>
-        <p class="team-bio">Brief description about Noah's role in organizing outreach activities.</p>
-    </div>
-
-    <div class="team-member">
-        <img src="/images/tochi-mbagwu.jpg" alt="Tochi Mbagwu" class="team-photo">
-        <h3>Tochi Mbagwu</h3>
-        <p class="team-title">Marketing Coordinator</p>
-        <p class="team-bio">Brief description about Tochi's responsibilities in marketing the group.</p>
+        <div class="team-member">
+            <img src="/images/tochi-mbagwu.jpg" alt="Tochi Mbagwu" class="team-photo">
+            <h3>Tochi Mbagwu</h3>
+            <p class="team-title">Marketing Coordinator</p>
+            <p class="team-bio">Brief description about Tochi's responsibilities in marketing the group.</p>
+        </div>
     </div>
 </div>
 
 <style>
 .team-container {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.team-row {
+    display: flex;
+    justify-content: center;
     gap: 20px;
 }
 
