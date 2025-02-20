@@ -9,6 +9,11 @@
   excerpt: "Learn more about us"
   image:
 
+- title: VR Initiative
+  url: /VR/
+  excerpt: "Virtual Reality Training"
+  image:
+
 - title: Meet The Team
   url: /meettheteam/
   excerpt: "Board Members"
