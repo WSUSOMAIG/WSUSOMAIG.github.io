@@ -16,6 +16,11 @@ image:
 
 The Anesthesia Interest Group integrates cutting-edge Virtual Reality (VR) technology to enhance medical education and procedural training. Our VR simulations provide an immersive, hands-on experience that helps students develop critical skills in a controlled, high-fidelity environment.
 
+
+![screenshot of Skinny Bones](/images/VR-image.jpg)
+
+
+
 What We Offer
 
 - Procedural Training: Our VR modules allow students to practice essential procedures such as central line placement, chest tube insertion, and tracheostomy replacement. These skills are crucial for anesthesia and critical care but can be difficult to access in traditional training settings.
