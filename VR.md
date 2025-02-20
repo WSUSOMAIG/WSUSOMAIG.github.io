@@ -36,17 +36,17 @@ By integrating VR into medical education, we aim to bridge the gap between theor
 Interested in learning more or getting involved? Contact us to explore our VR and ultrasound training opportunities!
 
 
-![screenshot of Skinny Bones](/images/IMG_0760.jpeg)
+![screenshot of Skinny Bones](/images/IMG_0760.jpg)
 
 
-![screenshot of Skinny Bones](/images/IMG_0768.jpeg)
+![screenshot of Skinny Bones](/images/IMG_0768.jpg)
 
 
-![screenshot of Skinny Bones](/images/IMG_1025.jpeg)
+![screenshot of Skinny Bones](/images/IMG_1025.jpg)
 
 
-![screenshot of Skinny Bones](/images/IMG_1030.jpeg)
+![screenshot of Skinny Bones](/images/IMG_1030.jpg)
 
 
-![screenshot of Skinny Bones](/images/IMG_1031.jpeg)
+![screenshot of Skinny Bones](/images/IMG_1031.jpg)
 
