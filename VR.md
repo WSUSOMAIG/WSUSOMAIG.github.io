@@ -13,6 +13,7 @@ image:
 
 
 Virtual Reality in Anesthesia Training
+
 The Anesthesia Interest Group integrates cutting-edge Virtual Reality (VR) technology to enhance medical education and procedural training. Our VR simulations provide an immersive, hands-on experience that helps students develop critical skills in a controlled, high-fidelity environment.
 
 What We Offer
