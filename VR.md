@@ -51,3 +51,11 @@ By integrating VR into medical education, we aim to bridge the gap between theor
 Interested in learning more or getting involved? Contact us to explore our VR and ultrasound training opportunities!
 
 
+## Photos from Our VR Event
+
+![Student using VR headset](/images/vr-student1.jpg)
+
+![Hands-on TEE training](/images/vr-tee-training.jpg)
+
+![Ultrasound simulation](/images/vr-ultrasound-demo.jpg)
+
