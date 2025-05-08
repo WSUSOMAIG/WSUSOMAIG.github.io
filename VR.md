@@ -11,6 +11,17 @@ image:
   thumb:
 ---
 
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" 
+  src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0" 
+  nonce="YOUR_NONCE_VALUE_HERE"></script>
+
+<!-- Facebook Post Embed -->
+<div class="fb-post" 
+     data-href="https://www.facebook.com/HenryFordHealth/videos/whether-its-in-the-lab-or-on-the-field-detroit-lions-amon-ra-st-brown-can-virtua/27910568521891560/" 
+     data-width="500"></div>
+
 
 
 
