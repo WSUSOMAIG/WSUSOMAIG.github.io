@@ -12,8 +12,20 @@ image:
 ---
 
 {% raw %}
-<iframe src="https://www.facebook.com%2FHenryFordHealth%2Fvideos%2F27910568521891560%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<div style="max-width: 300px; margin: 2em auto;">
+  <iframe
+    src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FHenryFordHealth%2Fvideos%2F27910568521891560%2F&show_text=false&width=267&t=0"
+    width="267"
+    height="476"
+    style="border:none;overflow:hidden"
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+  </iframe>
+</div>
 {% endraw %}
+
 
 
 
