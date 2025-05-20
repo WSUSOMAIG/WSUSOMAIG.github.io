@@ -57,5 +57,5 @@ Interested in learning more or getting involved? Contact us to explore our VR an
 
 ![Hands-on TEE training](/images/vr-tee-training.jpg)
 
-![Ultrasound simulation](/images/vr-ultrasound-demo.jpg)
+![Ultrasound simulation](vr-ultrasound-demo.jpg)
 
