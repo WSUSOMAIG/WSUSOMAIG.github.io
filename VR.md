@@ -55,7 +55,7 @@ Interested in learning more or getting involved? Contact us to explore our VR an
 
 ![Student using VR headset](/images/vr-student1.jpg)
 
-![Hands-on TEE training](/images/vr-tee-training.jpg)
+![Hands-on TEE training](vr-tee-training.jpg)
 
 ![Ultrasound simulation](vr-ultrasound-demo.jpg)
 
